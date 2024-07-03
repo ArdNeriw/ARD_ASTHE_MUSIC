@@ -7,16 +7,16 @@
 
 </h2>
 <p align="center">
-  <img src="https://graph.org/file/ae479d362c7b3d8e2396c.jpg">
+  <img src="https://telegra.ph/file/7aae48c46a98ec3e35565.jpg">
 </p>
 
  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=420&lines=🐙+🄳🄴🄿🄻🄾🅈+🄾🄽+🄷🄴🅁🄾🄺🅄+🄽🄾🅆+🐙">
 
 
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「 𝗔𝗥𝗗_𝗔𝗦𝗧𝗛𝗘_𝗠𝗨𝗦𝗜𝗖 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tinaarobot/NYKAAXBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-008080?style=for-the-badge&logo=heroku" width="180" height="40"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ArdNeriw/ARD_ASTHE_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-008080?style=for-the-badge&logo=heroku" width="180" height="40"/></a></p>
 
 
  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&width=420&lines=🐉+🄹🄾🄸🄽+🄾🅄🅁+🅂🅄🄿🄿🄾🅁🅃+🄶🅁🄾🅄🄿+🐉">
